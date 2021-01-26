@@ -36,4 +36,4 @@ Once you have printed the shield, I recommend using a thick double-sided adhesiv
 
 The source `.blend` file is provided if you want to make your own customizations or contribute something (a better mounting mechanism, maybe? PRs welcome!)
 
-You'll find both the Full and No Nose variants in the scene. To get the Compact variant, enable the "Compact" modifier in the No Nose variant.
+To switch between the variants, go to each of the labeled frames in the scene. Each will enable/disable the necessary properties to see the correct variant.

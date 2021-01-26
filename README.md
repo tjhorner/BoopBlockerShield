@@ -10,19 +10,19 @@ It comes in three variants: Full, No Nose, and Compact.
 
 Covers every bit of the badge, with cutouts for the LEDs and animation cycle buttons.
 
-![](img/full.png)
+![](img/0001.png)
 
 ### No Nose
 
 Same as Full, but it does not cover the nose area of the badge.
 
-![](img/no-nose.png)
+![](img/0002.png)
 
 ### Compact
 
 Same as No Nose, but with the sides cut off, so it only covers the area necessary to protect the LEDs. Good for printers with small build volume.
 
-![](img/compact.png)
+![](img/0003.png)
 
 ## Printing
 

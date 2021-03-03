@@ -1,10 +1,10 @@
 # Boop Blocker Shield
 
+[Thingiverse](https://www.thingiverse.com/thing:4739247)
+
 This is a simple "shield" for the 2020 DCFurs badge (the "Boop Blocker"). It is meant to protect the LEDs so they don't pop off, as was common in 2018's badge. It's 3D printable, and with the right settings can be printed with more rigid materials like PLA, rather than TPU.
 
 It comes in three variants: Full, No Nose, and Compact.
-
-https://www.thingiverse.com/thing:4739247
 
 ## Variants
 

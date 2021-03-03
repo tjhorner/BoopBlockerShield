@@ -4,6 +4,8 @@ This is a simple "shield" for the 2020 DCFurs badge (the "Boop Blocker"). It is 
 
 It comes in three variants: Full, No Nose, and Compact.
 
+https://www.thingiverse.com/thing:4739247
+
 ## Variants
 
 ### Full
